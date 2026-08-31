@@ -1,7 +1,7 @@
 # renlovecomputer
 <table>
   <tr>
-    <!-- ЛЕВАЯ КОЛОНКА -->
+   <!-- ЛЕВАЯ КОЛОНКА -->
     <td width="60%" valign="top">
       <h1>Hi there, I'm ren! 👋</h1>
       
