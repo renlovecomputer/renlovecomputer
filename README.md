@@ -1,37 +1,51 @@
 # renlovecomputer
-<img src="viper.jpg" align="right" width="250" alt="Viper">
-
-# Hi there, I'm ren! 👋
-
-![Arch Linux](https://shields.io)
-![Void Linux](https://shields.io)
-![Windows 11](https://shields.io)
-
-> I want to know everything abt computers 🖥️  
-> Used to use sum linux distros like Arch and Void, but currently using Windows 11 for games.
-
----
-
-### 🛠️ Technologies & Languages (Learning & Improving)
-
-![C++](https://shields.io)
-![Rust](https://shields.io)
-![JavaScript](https://shields.io)
-
-* 🎯 **Main Goal:** To become a skilled **Web Developer**
-* 💻 **Interests:** System administration, OS customization, Open Source
-
----
-
-### 🎮 My Gaming Hub
-
-![Valorant](https://shields.io)
-![CS2](https://shields.io)
-![Minecraft](https://shields.io)
-![DBD](https://shields.io)
+<table>
+  <tr>
+    <!-- ЛЕВАЯ КОЛОНКА: ВЕСЬ ТЕКСТ И ЗНАЧКИ -->
+    <td width="60%" valign="top">
+      <h1>Hi there, I'm ren! 👋</h1>
+      <p align="left">
+        <a href="https://archlinux.org"><img src="https://shields.io" alt="Arch Linux"/></a>
+        <a href="https://voidlinux.org"><img src="https://shields.io" alt="Void Linux"/></a>
+        <a href="https://microsoft.com"><img src="https://shields.io" alt="Windows 11"/></a>
+      </p>
+      <blockquote>
+        I want to know everything abt computers 🖥️<br>
+        Used to use sum linux distros like Arch and Void, but currently using Windows 11 for games.
+      </blockquote>
+      <hr>
+      <h3>🛠️ Technologies & Languages (Learning & Improving)</h3>
+      <p align="left">
+        <img src="https://shields.io" alt="C++"/>
+        <img src="https://shields.io" alt="Rust"/>
+        <img src="https://shields.io" alt="JavaScript"/>
+      </p>
+      <ul>
+        <li>🎯 <b>Main Goal:</b> To become a skilled <b>Web Developer</b></li>
+        <li>💻 <b>Interests:</b> System administration, OS customization, Open Source</li>
+      </ul>
+      <hr>
+      <h3>🎮 My Gaming Hub</h3>
+      <p align="left">
+        <img src="https://shields.io" alt="Valorant"/>
+        <img src="https://shields.io" alt="CS2"/>
+        <img src="https://shields.io" alt="Minecraft"/>
+        <img src="https://shields.io" alt="DBD"/>
+      </p>
+    </td>
+    <!-- ПРАВАЯ КОЛОНКА: ТВОЙ АРТ С VIPER -->
+    <td width="40%" valign="top" align="center">
+      <img src="[https://githubusercontent.com](https://github.com/renlovecomputer/renlovecomputer/blob/main/viper.jpg)" width="100%" style="border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 My GitHub Stats
+<p align="left">
+  <img src="https://vercel.app" alt="ren's GitHub Stats" />
+</p>
+
 
 ![ren's GitHub Stats](https://vercel.app)
