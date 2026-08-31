@@ -5,9 +5,9 @@
     <td width="60%" valign="top">
       <h1>Hi there, I'm ren! 👋</h1>
       <p align="left">
-        <!-- Твои загруженные файлы ОС + Ящерица для Void -->
+        <!-- Твои загруженные файлы ОС -->
         <img src="Arch-Dark.svg" height="40" alt="Arch Linux" /> &nbsp;
-        <g-emoji class="g-emoji" alias="lizard" fallback-src="https://githubassets.com">🦎</g-emoji> &nbsp;
+        <img src="Linux-Dark.svg" height="40" alt="Linux" /> &nbsp;
         <img src="Windows-Dark.svg" height="40" alt="Windows 11" />
       </p>
       <blockquote>
