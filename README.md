@@ -5,9 +5,9 @@
     <td width="60%" valign="top">
       <h1>Hi there, I'm ren! 👋</h1>
       <p align="left">
-        <!-- Твои загруженные файлы ОС -->
+        <!-- Твои загруженные файлы ОС + Ящерица для Void -->
         <img src="Arch-Dark.svg" height="40" alt="Arch Linux" /> &nbsp;
-        <img src="https://githubassets.com" height="40" alt="Void Linux" /> &nbsp;
+        <g-emoji class="g-emoji" alias="lizard" fallback-src="https://githubassets.com">🦎</g-emoji> &nbsp;
         <img src="Windows-Dark.svg" height="40" alt="Windows 11" />
       </p>
       <blockquote>
@@ -29,7 +29,7 @@
       <hr>
       <h3>💻 Apps & IDEs (Software I Use)</h3>
       <p align="left">
-        <!-- Твои новые загруженные файлы программ -->
+        <!-- Твои загруженные файлы программ -->
         <img src="CLion-Dark.svg" height="40" alt="CLion" /> &nbsp;
         <img src="Idea-Dark.svg" height="40" alt="IntelliJ IDEA" /> &nbsp;
         <img src="VisualStudio-Dark.svg" height="40" alt="Visual Studio" />
