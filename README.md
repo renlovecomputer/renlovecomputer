@@ -1,8 +1,43 @@
 # renlovecomputer
 <img src="viper.jpg" align="right" width="250" alt="Viper">
+# Hello!
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
-### I'm ren and I want to know everything abt computers 🧪
-### I used to use sum linux distros like arch linux and void linux but currently using Windows 11🐧
-### My fav games is Valorant, CS 2, Minecraft and Dead By Daylight🎮
-### Want to learn C++/Rust/Java Script😪
-### Really want to be Web Dev💭
+> I want to know everything abt computers 🖥️  
+> Used to use sum linux distros like Arch and Void, but currently dual-booting / using Windows 11 for games.
+
+---
+
+### 🛠️ Технологии и языки (Изучаю & Развиваю)
+
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+* 🎯 **Основная цель:** Стать крутым **Web Developer**
+* 💻 **Интересы:** Системное администрирование, кастомизация ОС, Open Source
+
+---
+
+### 🎮 Мой игровой хаб
+
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
+### 📊 Моя GitHub статистика
+
+<p align="left">
+  <img src="https://vercel.app" alt="ren's GitHub Stats" />
+</p>
