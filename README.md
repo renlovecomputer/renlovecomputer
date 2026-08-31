@@ -1,8 +1,8 @@
 # renlovecomputer
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <!-- ЛЕВАЯ КОЛОНКА -->
-    <td width="60%" valign="top">
+    <!-- ЛЕВАЯ КОЛОНКА С ЗЕЛЕНОВАТЫМ ФОНОМ -->
+    <td width="60%" valign="top" style="background-color: #0b1d16; padding: 20px; border-top-left-radius: 12px; border-bottom-left-radius: 12px; border: none;">
       <h1>Hi there, I'm ren! 👋</h1>
       <p align="left">
         <!-- Твои загруженные файлы ОС -->
@@ -14,7 +14,7 @@
         I want to know everything abt computers 🖥️<br>
         Used to use sum linux distros like Arch and Void, but currently using Windows 11 for games.
       </blockquote>
-      <hr>
+      <hr style="border: 0; border-top: 1px solid #1a3c2f;">
       <h3>🛠️ Technologies & Languages (Learning & Improving)</h3>
       <p align="left">
         <!-- Твои загруженные файлы языков -->
@@ -26,7 +26,7 @@
         <li>🎯 <b>Main Goal:</b> To become a skilled <b>Web Developer</b></li>
         <li>💻 <b>Interests:</b> System administration, OS customization, Open Source</li>
       </ul>
-      <hr>
+      <hr style="border: 0; border-top: 1px solid #1a3c2f;">
       <h3>💻 Apps & IDEs (Software I Use)</h3>
       <p align="left">
         <!-- Твои загруженные файлы программ -->
@@ -34,7 +34,7 @@
         <img src="Idea-Dark.svg" height="40" alt="IntelliJ IDEA" /> &nbsp;
         <img src="VisualStudio-Dark.svg" height="40" alt="Visual Studio" />
       </p>
-      <hr>
+      <hr style="border: 0; border-top: 1px solid #1a3c2f;">
       <h3>🎮 My Gaming Hub</h3>
       <p align="left">
         <code>🎯 Valorant</code> &nbsp; 
@@ -43,8 +43,8 @@
         <code>🩸 Dead By Daylight</code>
       </p>
     </td>
-    <!-- ПРАВАЯ КОЛОНКА -->
-    <td width="40%" valign="top" align="center">
+    <!-- ПРАВАЯ КОЛОНКА (БЕЗ ИЗМЕНЕНИЙ) -->
+    <td width="40%" valign="top" align="center" style="background-color: #0b1d16; padding: 20px; border-top-right-radius: 12px; border-bottom-right-radius: 12px; border: none;">
       <img src="viper.jpg" width="100%" style="border-radius: 8px;" alt="Viper Valorant" />
     </td>
   </tr>
