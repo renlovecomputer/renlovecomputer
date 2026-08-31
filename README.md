@@ -5,9 +5,10 @@
     <td width="60%" valign="top">
       <h1>Hi there, I'm ren! 👋</h1>
       <p align="left">
-        <img src="https://shields.io" alt="Arch Linux"/>
-        <img src="https://shields.io" alt="Void Linux"/>
-        <img src="https://shields.io" alt="Windows 11"/>
+        <!-- ОС значки как у Flowseal -->
+        <img src="https://githubusercontent.com" height="40" alt="Arch Linux" /> &nbsp;
+        <img src="https://githubusercontent.com" height="40" alt="Void Linux" /> &nbsp;
+        <img src="https://githubusercontent.com" height="40" alt="Windows 11" />
       </p>
       <blockquote>
         I want to know everything abt computers 🖥️<br>
@@ -16,9 +17,10 @@
       <hr>
       <h3>🛠️ Technologies & Languages (Learning & Improving)</h3>
       <p align="left">
-        <img src="https://shields.io" alt="C++"/>
-        <img src="https://shields.io" alt="Rust"/>
-        <img src="https://shields.io" alt="JavaScript"/>
+        <!-- Значки языков как у Flowseal -->
+        <img src="https://githubusercontent.com" height="40" alt="C++" /> &nbsp;
+        <img src="https://githubusercontent.com" height="40" alt="Rust" /> &nbsp;
+        <img src="https://githubusercontent.com" height="40" alt="JavaScript" />
       </p>
       <ul>
         <li>🎯 <b>Main Goal:</b> To become a skilled <b>Web Developer</b></li>
@@ -27,13 +29,14 @@
       <hr>
       <h3>🎮 My Gaming Hub</h3>
       <p align="left">
-        <img src="https://shields.io" alt="Valorant"/>
-        <img src="https://shields.io" alt="CS2"/>
-        <img src="https://shields.io" alt="Minecraft"/>
-        <img src="https://shields.io" alt="DBD"/>
+        <!-- Игры, стилизованные под квадратные значки -->
+        <img src="https://githubusercontent.com" width="32" height="32" style="background-color: #1a1b26; padding: 5px; border-radius: 10px; border: 1px solid #24292e;" alt="Valorant" /> &nbsp;
+        <img src="https://githubusercontent.com" width="32" height="32" style="background-color: #1a1b26; padding: 5px; border-radius: 10px; border: 1px solid #24292e;" alt="CS2" /> &nbsp;
+        <img src="https://githubusercontent.com" width="32" height="32" style="background-color: #1a1b26; padding: 5px; border-radius: 10px; border: 1px solid #24292e;" alt="Minecraft" /> &nbsp;
+        <img src="https://githubusercontent.com" width="32" height="32" style="background-color: #1a1b26; padding: 5px; border-radius: 10px; border: 1px solid #24292e;" alt="DBD" />
       </p>
     </td>
-    <!-- ПРАВАЯ КОЛОНКА (АРТ) -->
+    <!-- ПРАВАЯ КОЛОНКА (АРТ С VIPER) -->
     <td width="40%" valign="top" align="center">
       <img src="viper.jpg" width="100%" style="border-radius: 8px;" alt="Viper Valorant" />
     </td>
