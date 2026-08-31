@@ -1,43 +1,37 @@
 # renlovecomputer
 <img src="viper.jpg" align="right" width="250" alt="Viper">
-# Hello!
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+
+# Hi there, I'm ren! 👋
+
+![Arch Linux](https://shields.io)
+![Void Linux](https://shields.io)
+![Windows 11](https://shields.io)
 
 > I want to know everything abt computers 🖥️  
-> Used to use sum linux distros like Arch and Void, but currently dual-booting / using Windows 11 for games.
+> Used to use sum linux distros like Arch and Void, but currently using Windows 11 for games.
 
 ---
 
-### 🛠️ Технологии и языки (Изучаю & Развиваю)
+### 🛠️ Technologies & Languages (Learning & Improving)
 
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![C++](https://shields.io)
+![Rust](https://shields.io)
+![JavaScript](https://shields.io)
 
-* 🎯 **Основная цель:** Стать крутым **Web Developer**
-* 💻 **Интересы:** Системное администрирование, кастомизация ОС, Open Source
+* 🎯 **Main Goal:** To become a skilled **Web Developer**
+* 💻 **Interests:** System administration, OS customization, Open Source
 
 ---
 
-### 🎮 Мой игровой хаб
+### 🎮 My Gaming Hub
 
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![Valorant](https://shields.io)
+![CS2](https://shields.io)
+![Minecraft](https://shields.io)
+![DBD](https://shields.io)
 
 ---
 
-### 📊 Моя GitHub статистика
+### 📊 My GitHub Stats
 
-<p align="left">
-  <img src="https://vercel.app" alt="ren's GitHub Stats" />
-</p>
+![ren's GitHub Stats](https://vercel.app)
