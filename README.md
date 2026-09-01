@@ -3,7 +3,7 @@
   <tr>
     <!-- ЛЕВАЯ КОЛОНКА С ЗЕЛЕНОВАТЫМ ФОНОМ -->
     <td width="60%" valign="top" style="background-color: #0b1d16; padding: 20px; border-top-left-radius: 12px; border-bottom-left-radius: 12px; border: none;">
-      <h1>Hi there, I'm ren! 👋</h1>
+      <h1>Hi there, I'm ren </h1>
       <p align="left">
         <!-- Твои загруженные файлы ОС -->
         <img src="Arch-Dark.svg" height="40" alt="Arch Linux" /> &nbsp;
