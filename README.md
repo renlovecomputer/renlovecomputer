@@ -45,7 +45,7 @@
     </td>
     <!-- ПРАВАЯ КОЛОНКА (БЕЗ ИЗМЕНЕНИЙ) -->
     <td width="40%" valign="top" align="center" style="background-color: #0b1d16; padding: 20px; border-top-right-radius: 12px; border-bottom-right-radius: 12px; border: none;">
-      <img src="asd.png" width="100%" style="border-radius: 8px;" alt="My Wife" />
+      <img src="Без названия (1).jpg" width="100%" style="border-radius: 8px;" alt="My Wife" />
     </td>
   </tr>
 </table>
