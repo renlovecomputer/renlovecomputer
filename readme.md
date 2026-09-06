@@ -6,6 +6,7 @@
         <img src="https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white" height="40" alt="Arch Linux">&nbsp;
         <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" height="40" alt="Linux">&nbsp;
         <img src="Windows-Dark.svg" height="40" alt="Windows 11">
+        <img src="https://shields.io" height="40" alt="Windows 11">
       </p>
       <blockquote>
         I want to know everything abt computers 🖥️<br>
