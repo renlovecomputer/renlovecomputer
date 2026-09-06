@@ -24,16 +24,22 @@
         <li>💻 <b>Interests:</b> System administration, OS customization, Open Source</li>
       </ul>
       <hr style="border: 0; border-top: 1px solid #1a3c2f;">
-      <h3>💻 Apps & IDEs (Software I Use)</h3>
+      <h3>💻IDEs</h3>
       <p align="left">
         <img src="https://img.shields.io/badge/CLion-%23000.svg?style=for-the-badge&logo=clion&logoColor=white" height="40" alt="CLion">&nbsp;
         <img src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="40" alt="IntelliJ IDEA">&nbsp;
+              <ul>
+        <li>💻 <b>IDE:</b> I love this IDEs</li>
+      </ul>
       </p>
       <hr style="border: 0; border-top: 1px solid #1a3c2f;">
                   <h3>💻 DEs (Desktop Enviroment I use)</h3>
       <p align="left">
         <img src="https://img.shields.io/badge/Hyprland-%2358E1FF.svg?style=for-the-badge&logo=hyprland&logoColor=black" height="40" alt="IntelliJ IDEA">&nbsp;
         <img src="https://img.shields.io/badge/Sway-%2368751C.svg?style=for-the-badge&logo=sway&logoColor=white" height="40" alt="Visual Studio">
+              <ul>
+        <li>🎯 <b>Main DEs:</b> Imo this is the best DEs</li>
+      </ul>
       </p>
       <hr style="border: 0; border-top: 1px solid #1a3c2f;">
                   <h3>💻 Software</h3>
@@ -41,6 +47,9 @@
         <img src="https://img.shields.io/badge/Brave-%23FB542B.svg?style=for-the-badge&logo=Brave&logoColor=white" height="40" alt="IntelliJ IDEA">&nbsp;
         <img src="https://img.shields.io/badge/Firefox-%23FF7139.svg?style=for-the-badge&logo=Firefox-Browser&logoColor=white" height="40" alt="IntelliJ IDEA">&nbsp;
         <img src="https://img.shields.io/badge/Krita-%23203759.svg?style=for-the-badge&logo=krita&logoColor=EEF37B" height="40" alt="Visual Studio">
+              <ul>
+        <li>💻 <b>Apps:</b>Very useful apps</li>
+      </ul>
       </p>
       <hr style="border: 0; border-top: 1px solid #1a3c2f;">
       <h3>🎮 My Gaming Hub</h3>
