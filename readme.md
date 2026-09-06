@@ -4,7 +4,7 @@
       <h1>Hi there, I'm ren</h1>
       <p align="left">
         <img src="https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white" height="40" alt="Arch Linux">&nbsp;
-        <img src="Linux-Dark.svg" height="40" alt="Linux">&nbsp;
+        <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" height="40" alt="Linux">&nbsp;
         <img src="Windows-Dark.svg" height="40" alt="Windows 11">
       </p>
       <blockquote>
@@ -14,9 +14,9 @@
       <hr style="border: 0; border-top: 1px solid #1a3c2f;">
       <h3>🛠️ Technologies & Languages (Learning & Improving)</h3>
       <p align="left">
-        <img src="CPP.svg" height="40" alt="C++">&nbsp;
-        <img src="Rust.svg" height="40" alt="Rust">&nbsp;
-        <img src="JavaScript.svg" height="40" alt="JavaScript">
+        <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" alt="C++">&nbsp;
+        <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" height="40" alt="Rust">&nbsp;
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="40" alt="JavaScript">
       </p>
       <ul>
         <li>🎯 <b>Main Goal:</b> To become a skilled 💻Web Developer</li>
@@ -25,8 +25,8 @@
       <hr style="border: 0; border-top: 1px solid #1a3c2f;">
       <h3>💻 Apps & IDEs (Software I Use)</h3>
       <p align="left">
-        <img src="CLion-Dark.svg" height="40" alt="CLion">&nbsp;
-        <img src="Idea-Dark.svg" height="40" alt="IntelliJ IDEA">&nbsp;
+        <img src="https://img.shields.io/badge/CLion-%23000.svg?style=for-the-badge&logo=clion&logoColor=white" height="40" alt="CLion">&nbsp;
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="40" alt="IntelliJ IDEA">&nbsp;
         <img src="VisualStudio-Dark.svg" height="40" alt="Visual Studio">
       </p>
       <hr style="border: 0; border-top: 1px solid #1a3c2f;">
