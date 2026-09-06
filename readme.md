@@ -3,7 +3,7 @@
     <td width="60%" valign="top" style="background-color: #0b1d16; padding: 20px; border-top-left-radius: 12px; border-bottom-left-radius: 12px; border: none;">
       <h1>Hi there, I'm ren</h1>
       <p align="left">
-        <img src="Arch-Dark.svg" height="40" alt="Arch Linux">&nbsp;
+        <img src="![Arch](https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)" height="40" alt="Arch Linux">&nbsp;
         <img src="Linux-Dark.svg" height="40" alt="Linux">&nbsp;
         <img src="Windows-Dark.svg" height="40" alt="Windows 11">
       </p>
