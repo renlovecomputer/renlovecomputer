@@ -1,3 +1,4 @@
+#renlovecomputer
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
     <!-- ЛЕВАЯ КОЛОНКА С ЗЕЛЕНОВАТЫМ ФОНОМ -->
