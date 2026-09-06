@@ -28,7 +28,6 @@
       <p align="left">
         <img src="https://img.shields.io/badge/CLion-%23000.svg?style=for-the-badge&logo=clion&logoColor=white" height="40" alt="CLion">&nbsp;
         <img src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="40" alt="IntelliJ IDEA">&nbsp;
-        <img src="VisualStudio-Dark.svg" height="40" alt="Visual Studio">
       </p>
       <hr style="border: 0; border-top: 1px solid #1a3c2f;">
       <h3>🎮 My Gaming Hub</h3>
@@ -38,6 +37,12 @@
         <code>⛏️ Minecraft</code>&nbsp;
         <code>🩸 Dead By Daylight</code>
       </p>
+            <h3>💻 DEs (Desktop Enviroment I use)</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Hyprland-%2358E1FF.svg?style=for-the-badge&logo=hyprland&logoColor=black" height="40" alt="IntelliJ IDEA">&nbsp;
+        <img src="https://img.shields.io/badge/Sway-%2368751C.svg?style=for-the-badge&logo=sway&logoColor=white" height="40" alt="Visual Studio">
+      </p>
+      <hr style="border: 0; border-top: 1px solid #1a3c2f;">
     </td>
     <td width="40%" valign="top" align="center" style="background-color: #0b1d16; padding: 20px; border-top-right-radius: 12px; border-bottom-right-radius: 12px; border: none;">
       <img src="r.jpeg" width="100%" style="border-radius: 8px;" alt="My Wife">
