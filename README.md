@@ -6,17 +6,17 @@
       
       <!-- Операционные системы -->
       <p align="left">
-        <img src="https://shields.io" alt="Arch Linux" />&nbsp;
-        <img src="https://shields.io" alt="Linux" />&nbsp;
-        <img src="https://shields.io" alt="Windows 11" />&nbsp;
-        <img src="https://shields.io" alt="Android" />&nbsp;
-        <img src="https://shields.io" alt="iOS" />
+        ![Arch Linux](https://shields.io)
+        ![Linux](https://shields.io)
+        ![Windows 11](https://shields.io)
+        ![Android](https://shields.io)
+        ![iOS](https://shields.io)
       </p>
 
       <!-- Любимый бренд комплектующих -->
       <p align="left" style="margin-top: -5px; margin-bottom: 15px;">
         <span style="color: #8dd39f; font-size: 14px; font-weight: bold; display: block; margin-bottom: 5px;">❤️ Favorite Hardware Brand:</span>
-        <img src="https://shields.io" alt="AMD" />
+        ![AMD](https://shields.io)
       </p>
       
       <blockquote>
@@ -29,9 +29,9 @@
       <h3>🛠️ Technologies & Languages (Learning & Improving)</h3>
       <!-- Языки программирования -->
       <p align="left">
-        <img src="https://shields.io" alt="C++" />&nbsp;
-        <img src="https://shields.io" alt="Rust" />&nbsp;
-        <img src="https://shields.io" alt="JavaScript" />
+        ![C++](https://shields.io)
+        ![Rust](https://shields.io)
+        ![JavaScript](https://shields.io)
       </p>
       
       <ul>
@@ -45,11 +45,11 @@
       <h3>💻 Apps, IDEs & DEs (Software I Use)</h3>
       <!-- Среды разработки и оконные менеджеры -->
       <p align="left">
-        <img src="https://shields.io" alt="CLion" />&nbsp;
-        <img src="https://shields.io" alt="IntelliJ IDEA" />&nbsp;
-        <img src="https://shields.io" alt="Visual Studio" />&nbsp;
-        <img src="https://shields.io" alt="Hyprland" />&nbsp;
-        <img src="https://shields.io" alt="Sway" />
+        ![CLion](https://shields.io)
+        ![IntelliJ IDEA](https://shields.io)
+        ![Visual Studio](https://shields.io)
+        ![Hyprland](https://shields.io)
+        ![Sway](https://shields.io)
       </p>
       
       <hr style="border: 0; border-top: 1px solid #1a3c2f;">
