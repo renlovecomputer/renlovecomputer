@@ -39,7 +39,8 @@
                   <h3>💻 Software</h3>
       <p align="left">
         <img src="https://img.shields.io/badge/Brave-%23FB542B.svg?style=for-the-badge&logo=Brave&logoColor=white" height="40" alt="IntelliJ IDEA">&nbsp;
-        <img src=" https://img.shields.io/badge/Krita-%23203759.svg?style=for-the-badge&logo=krita&logoColor=EEF37B" height="40" alt="Visual Studio">
+        <img src="https://img.shields.io/badge/Firefox-%23FF7139.svg?style=for-the-badge&logo=Firefox-Browser&logoColor=white" height="40" alt="IntelliJ IDEA">&nbsp;
+        <img src="https://img.shields.io/badge/Krita-%23203759.svg?style=for-the-badge&logo=krita&logoColor=EEF37B" height="40" alt="Visual Studio">
       </p>
       <hr style="border: 0; border-top: 1px solid #1a3c2f;">
       <h3>🎮 My Gaming Hub</h3>
